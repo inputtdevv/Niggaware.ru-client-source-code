@@ -1,1 +1,1 @@
-This is the client thing
+This is the client code which runs the stealer etc.
