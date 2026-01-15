@@ -1,1 +1,3 @@
-# Niggaware.ru-client-source-code
+# Niggaware
+
+- Niggaware is a java rat+stealer
